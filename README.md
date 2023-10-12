@@ -23,10 +23,7 @@ GET: /users/by-email - admin
 ---
 ### Technologies
 - Java 17
-- Spring Boot, Spring Security, Spring data JPA
+- Spring Security, Spring data JPA
 - REST, Mapstruct
-- MySQL, Liquibase
-- Maven, Docker
-- Lombok, Swagger
-- Junit, Mockito, testcontainers
+- MySQL, Maven
 ---
